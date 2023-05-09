@@ -2,7 +2,6 @@
 > ##### 理論請自行找，網路上有很多相關的文章，這邊只關注於範例實作的部分.
 
 ---
-<br>
 
 <!--ts-->
 ## 目錄
@@ -15,26 +14,22 @@
 <!--te-->
 
 ---
-<br>
 
 ## 目的
 將物件以樹狀結構組織起來，並對單個物件和組合物件進行統一處理。
 
 ---
-<br>
 
 ## 使用時機
 當需要以樹狀結構來組織物件，並對單個物件和組合物件進行統一處理時，可以使用Composite Pattern。<br>
 
 ---
-<br>
 
 ## URL結構圖
 ![](https://drive.google.com/uc?id=1MMDRmFu1dUKPJkOWAFXz6rJGWIwlly6O)
 > 圖片來源：[Refactoring.Guru - Composite](https://refactoring.guru/design-patterns/composite) 
 
 ---
-<br>
 
 ## 實作成員
 * Component
@@ -47,23 +42,18 @@
   * 通過Component介面操作單個物件和組合物件，而不需要知道具體實現類別的細節。
 
 ---
-<br>
 
 ## 實作範例:
 - [待補...]() 
 
-
 ---
-<br>
 
 ## 參考資料
 * [Wiki - Composite Pattern](https://en.wikipedia.org/wiki/Composite_pattern) <br>
 * [Refactoring.Guru - Composite](https://refactoring.guru/design-patterns/composite) <br>
 
 ---
-<br>
 
----
 <!--ts-->
 #### [目錄 ↩](#目錄)
 <!--te-->
